@@ -1,3 +1,4 @@
+# 분류별 알고리즘 풀이 현황
 ### 구현
 [[백준] 1000번 B5](https://www.acmicpc.net/problem/1000) <br>
 
