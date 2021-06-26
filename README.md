@@ -22,3 +22,4 @@
 ### 그리디 알고리즘
 [[백준] 2839번 B1](https://www.acmicpc.net/problem/2839)<br>
 ```
+---
