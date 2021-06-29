@@ -1,7 +1,12 @@
 # Algorithm-classification
 ## 알고리즘 분류
 
+### [알고리즘 리스트]
 ### [알고리즘 날짜별 풀이 현황](https://github.com/SKHUDevelopersAlgorithm/Algorithm-classification/blob/main/FilterByDate.md)
+### [알고리즘 분류별 풀이 현황](https://github.com/SKHUDevelopersAlgorithm/Algorithm-classification/blob/main/FilterByClassification.md)
+
+## 작성 양식
+### 알고리즘 날짜별 풀이 현황
 ```
 ### 06-26
 - 문제 : [[백준] 1000번](https://www.acmicpc.net/problem/1000)
@@ -14,7 +19,7 @@
 - 풀이 : MojitoBar
 ```
 
-### [알고리즘 분류별 풀이 현황](https://github.com/SKHUDevelopersAlgorithm/Algorithm-classification/blob/main/FilterByClassification.md)
+### 알고리즘 분류별 풀이 현황
 ```
 ### 구현
 [[백준] 1000번 B5](https://www.acmicpc.net/problem/1000)<br>
