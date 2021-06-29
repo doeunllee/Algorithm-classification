@@ -5,6 +5,8 @@
 ### [알고리즘 날짜별 풀이 현황](https://github.com/SKHUDevelopersAlgorithm/Algorithm-classification/blob/main/FilterByDate.md)
 ### [알고리즘 분류별 풀이 현황](https://github.com/SKHUDevelopersAlgorithm/Algorithm-classification/blob/main/FilterByClassification.md)
 
+<br>
+
 ## 작성 양식
 ### 알고리즘 날짜별 풀이 현황
 ```
