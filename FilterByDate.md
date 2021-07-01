@@ -23,3 +23,10 @@
 - 문제 : [[백준] 4796번](https://www.acmicpc.net/problem/4796)
 - 난이도 : S5
 - 풀이 : jieunee2
+
+### 07-01
+- 문제 : [[백준] 1145번](https://www.acmicpc.net/problem/1145)
+- 난이도 : B1
+- 풀이 : doeunllee
+
+
