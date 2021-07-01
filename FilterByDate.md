@@ -15,6 +15,6 @@
 - 풀이 : MojitoBar
 
 ### 07-01
-- 문제 : [[백준] 4796번](https://www.acmicpc.net/problem/4796)
-- 난이도 : S5
-- 풀이 : jieunee2
+- 문제 : [[백준] 1931번](https://www.acmicpc.net/problem/1931)
+- 난이도 : S2
+- 풀이 : suyeon
